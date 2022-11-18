@@ -1,0 +1,14 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexandre DUPONCHEL <aduponchel@atecna.fr>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "sshpk": "^1.17.0"
+  },
+  "scripts": {
+    "set-password": "node set-password" 
+  }
+}
